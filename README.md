@@ -42,9 +42,9 @@ Based on the regularized production tree logic, the outbound marketing team is d
 ## 📁 Repository Structure
 ```text
 ├── data/
-│   └── AllLife_Bank_Card_Customers.csv     # Anonymized customer asset registry
+│   └── AllLife_Bank_Customers.csv          # Anonymized customer asset registry
 ├── notebooks/
 │   └── bank_loan_predictive_model.ipynb    # Complete End-to-End Jupyter Notebook
 ├── outputs/
-│   └── model_execution_report.html         # Sequentially executed production HTML export
+│   └── bank_loan_predictive_model.html     # Sequentially executed production HTML export
 └── README.md                               # Executive summary & system documentation
